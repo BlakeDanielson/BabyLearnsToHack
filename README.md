@@ -1,0 +1,2 @@
+# BabyLearnsToHack
+Initial resource dump for everything I think I need to become the 31337 hakz0r I know I'm destined to be. I was a comp sci major freshman year before switching to finance so my overall goals are pretty simple for this: 1. submit a bug to a company and have them say thank you. 2. Make myself fully regret not studying comp sci, security, systems, or whatever's similar when I was in college 3. Say something my comp sci/infosec friends are impressed by because of the material itself, not just because I was the one who said it.
