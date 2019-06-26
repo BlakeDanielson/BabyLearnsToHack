@@ -20,6 +20,11 @@ Make myself fully regret not studying comp sci, security, systems, or whatever's
 Say something my comp sci/infosec friends are impressed by because of the material itself, not just because I was the one who said it.
 
 # Resources, Resources, And More Fucking Resources
+
+## Githubs
+|**Name**|**Author**|
+|[Jhaddix](https://github.com/jhaddix)|Jason Haddix - An amazing contributor to bug bounty hunting in every possible way|
+
 ## Wordlists
 |**Name**|**Description**|
 |:----:|:-----------:|
@@ -36,7 +41,6 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |**Name**|**Description**|
 |:----:|:-----------:|
 |**Company**|**Channels**|
-|:----:|:-----------:|
 |[0Patch](https://www.youtube.com/channel/UCwlGrzF4on-bjiBhD8lO3QA)||
 |[Detectify](https://www.youtube.com/channel/UCm6N84sAaQ-BiNdCaaLT4qg)||
 |[Hak5](https://www.youtube.com/user/Hak5Darren)||
@@ -52,7 +56,6 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |[TippingPoint 0Day Initiative](https://www.youtube.com/channel/UChbH7B5YhXANmlMYJRHpw0g)||
 |[Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w)||
 |**Conference**|**Channels**|
-|:----:|:-----------:|
 |[44CON](https://www.youtube.com/user/44contv)||
 |[BalCCON](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA)||
 |[BlackHat](https://www.youtube.com/user/BlackHatOfficialYT)||
@@ -98,6 +101,7 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |[JackkTutorials](https://www.youtube.com/user/JackkTutorials/videos)||
 |[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos)||
 |[Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg/videos)||
+|[Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)|Fantastic reacher with great Github who started his YT channel|
 |[OpenSecurityTraining](https://www.youtube.com/user/OpenSecurityTraining/videos)||
 |[PentesterAcademyTV](https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA/videos)||
 |[PentesterTestingInLinux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA/videos)||
@@ -105,6 +109,8 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |[SecurityWeekly](https://www.youtube.com/user/SecurityWeeklyTV/videos)||
 |[Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA/videos)||
 |[SSTecTutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg/videos)||
+|[Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)||
+|[TradeCraftSecurity](https://wiki.securityweekly.com/Tradecraft_Security_Weekly)||
 
 ## Forums & Communities
 |**Name**|**Description**|
