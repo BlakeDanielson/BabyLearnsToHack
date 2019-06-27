@@ -1,6 +1,6 @@
 # BabyLearnsToHack
 
-/
+
 Hello World! What the fuck is up?!
 This is going to be the initial resource dump for everything I think I need to become the 31337 hakz0r I know I'm destined to be.
 I was a comp sci major freshman year before switching to finance so my overall goals are pretty simple for this:
