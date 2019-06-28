@@ -24,6 +24,8 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 
 ## Githubs
 |**Name**|**Author**|
+|:----:|:-----------:|
+|[Onlurking](https://github.com/onlurking/awesome-infosec)|Giant List of Hacking Courses|
 |[Jhaddix](https://github.com/jhaddix)|Jason Haddix - An amazing contributor to bug bounty hunting in every possible way|
 
 ## Wordlists
@@ -165,8 +167,15 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |[Stripe CTF](https://github.com/stripe-ctf)|Discover and exploit vulnerabilities in mock web applications|
 |[HackingArticles (Writeups)](https://www.hackingarticles.in)|CTF Write up collection with a lot of screenshots|
 
-|Name|Description|
+## Educational Resources & Courses
+|**Name**|**Description**|
 |:----:|:-----------:|
+|[OffensiveComputerSecutiry](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)|s|
+|[Cybrary](https://www.cybrary.it/course/web-application-pen-testing/)|Webapp Penetration Testing Course|
+|[NYU HackNight](https://github.com/osirislab/Hack-Night)|NYU Multi-week Hacking Course (Github Hosted)|
+|[PentesterLab](https://pentesterlab.com/bootcamp)|Large Collection Of Educational Resources/Videos|
+|[MIT Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014)||
+|[SeedLabs (Ubuntu Courses)](https://seedsecuritylabs.org/labs.html)|Free Ubuntu courses and VM info|
 |[BadBinaries](https://www.badbinaries.com)|s|
 |[Cybary](https://www.cybrary.it)|s|
 |[Hak5 - Forums](https://forums.hak5.org)|s|
@@ -174,8 +183,6 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |[White Hat Academy]()|s|
 |[Intro To Computer Secutiry](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)|Full-Scale Academic course with homework and the works|
 |[SamsClass(Cybersec Course)] (https://www.samsclass.info)|Shitty Website probably means the best content|
-|[MIT Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014)||
-|[SeedLabs (Ubuntu Courses)](https://seedsecuritylabs.org/labs.html)|Free Ubuntu courses and VM info|
 |[OWASP Top 10 2013]()|s|
 |[OWSAP Top 10 2017]()|s|
-|[OffensiveComputerSecutiry](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)|s|
+
