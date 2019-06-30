@@ -38,7 +38,7 @@ Say something my comp sci/infosec friends are impressed by because of the materi
 |**Name**|**Description**|
 |:----:|:-----------:|
 |[OWASP XSS Filter Evasion](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)|Awesome OWSAP cheatsheet with dozens of typical ways to bypass XSS Filters/Steralizers|
-|||
+|[Google Dorking](https://gist.github.com/himynameisdave/809879eb3d14900143ccf621aec24f2e)|Huge list of Google Dork keys, offensively orriented|
 
 ## Youtube Channels
 |**Name**|**Description**|
